@@ -35,3 +35,8 @@ npm-debug.log*
 # runtime data / large binaries from the teammate prototype folder (silly-raman/)
 silly-raman/backend/*.db
 silly-raman/cloudflared.exe
+
+# report documents & templates
+VU_LaTex_Template_for_IDP_Report.zip
+VU_LaTex_Template_for_IDP_Report/
+*.docx
